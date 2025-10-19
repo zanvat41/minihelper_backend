@@ -1,0 +1,8 @@
+2025-10-14 05:23:04,028 - ops.simple_scheduler - INFO - Added daily job 'daily_email' at 09:00
+2025-10-14 05:23:04,028 - ops.simple_scheduler - INFO - Added interval job 'health_check' every 30 minutes
+2025-10-14 05:23:04,028 - ops.simple_scheduler - INFO - Added weekly job 'weekly_cleanup' on day 6 at 02:00
+2025-10-14 05:23:04,028 - ops.simple_scheduler - INFO - All scheduled tasks have been set up
+2025-10-14 05:23:22,011 - django.db.backends - DEBUG - (0.000) SELECT @@SQL_AUTO_IS_NULL; args=None
+2025-10-14 05:23:22,011 - django.db.backends - DEBUG - (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None
+2025-10-14 05:23:22,011 - django.db.backends - DEBUG - (0.000) SELECT 1; args=None
+2025-10-14 05:23:22,011 - ops.simple_scheduler - INFO - Health check passed - Free space: 732.34 GB
